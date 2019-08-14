@@ -1,5 +1,5 @@
 """
-@author: Endormi
+author: @endormi
 
 Find the location of the faces & how many people are in this image
 """
