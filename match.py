@@ -8,7 +8,7 @@ import face_recognition
 
 # Known image
 img = face_recognition.load_image_file('./img/known/image')
-img_encode = face_recognition.face_encodings(elon)[0]
+img_encode = face_recognition.face_encodings(img)[0]
 
 # Unknown image
 unknown = face_recognition.load_image_file(
