@@ -42,4 +42,6 @@ face_recognition ./img/known ./img/unknown | cut -d ',' -f2
 
 - match - Match the face.
 
+- id - Identify images and draw a label with a name below the face.
+
 To try other stuff, check the [documentation](https://github.com/ageitgey/face_recognition)
