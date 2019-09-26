@@ -1,7 +1,7 @@
 """
 author: @endormi
 
-Identify image
+Identify images and draw a label with a name below the face
 """
 
 import face_recognition
