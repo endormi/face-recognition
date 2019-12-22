@@ -2,20 +2,16 @@
 
 Using [Python Face Recognition](https://pypi.org/project/face_recognition/) library. It was built using dlib's **state-of-the-art face** recognition built with deep learning.
 
-Install face recognition:
-
-```sh
-pip install face_recognition
-```
-
-Linux and macOS are supported, but not windows.
-
-[Link to windows installation](https://github.com/ageitgey/face_recognition/issues/175#issue-257710508)
-
 Clone this repository:
 
 ```sh
 git clone https://github.com/endormi/face-recognition.git
+```
+
+Install requirements:
+
+```sh
+pip install -r requirements.txt
 ```
 
 Test to see if it's installed correctly:
